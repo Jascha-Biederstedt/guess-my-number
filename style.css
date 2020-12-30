@@ -117,3 +117,13 @@ h1 {
 .label-score {
   margin-bottom: 2rem;
 }
+
+footer {
+  margin: 5rem;
+  text-align: center;
+  line-height: 225%;
+}
+
+.udemy-link {
+  color: #fff;
+}
